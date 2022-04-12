@@ -2,7 +2,7 @@
   <b>Ivan Bulgakov</b>
 </h1>
 
-Hey! I'm Ivan Bulgakov, a <a href="https://en.wikipedia.org/wiki/Bauman_Moscow_State_Technical_University">**BMSTU**</a> student currently living in Moscow, Russia. I am actively looking for a job, if you have any suggestions, contact me by <a href="https://telegram.me/jaygle">**telegram**</a> or by <a href="mailto:wanjasoldier@gmail.com">**e-mail**</a>.
+Hey! I'm Ivan Bulgakov, a <a href="https://en.wikipedia.org/wiki/Bauman_Moscow_State_Technical_University">**BMSTU**</a> student currently living in Moscow, Russia. I am actively looking for a part-time job, if you have any suggestions, contact me by <a href="https://telegram.me/jaygle">**telegram**</a> or by <a href="mailto:wanjasoldier@gmail.com">**e-mail**</a>.
 
 <br>
 
